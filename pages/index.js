@@ -1,6 +1,5 @@
 // pages/index.js
 import React, { useState } from "react";
-import TradingViewChart from "../components/TradingViewChart";
 import DefaultSidebar from "../components/DefaultSidebar";
 import {
   AdvancedChart,
