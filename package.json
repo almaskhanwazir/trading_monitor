@@ -29,7 +29,6 @@
     "react-redux": "^8.1.2",
     "react-tradingview-embed": "^3.0.6",
     "tailwindcss": "3.3.3",
-    "tradingview-api": "^1.0.2",
     "typescript": "5.2.2"
   }
 }
